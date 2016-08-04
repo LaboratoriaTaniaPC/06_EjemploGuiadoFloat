@@ -1,0 +1,44 @@
+p {
+    
+    color:yellow;
+    font-size: 10px;
+    background-color:purple;
+    }
+
+li{
+
+    background-color:blue;
+
+  }
+
+ul{
+
+    background-color:red;
+
+  }
+
+h1{
+
+     font-size: 30px;
+
+  }
+
+h2 {
+
+  font-color: black;
+  font-size:16px; 
+  
+}
+
+img {
+
+	border-color: blue;
+	font-size:1px; 
+	border-style: solid;
+}
+
+
+
+
+
+

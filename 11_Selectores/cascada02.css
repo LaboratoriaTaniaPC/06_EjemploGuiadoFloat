@@ -1,0 +1,44 @@
+p {
+    font-size: 10px;
+    background-color:purple;
+    }
+
+li{
+
+    background-color:blue;
+
+  }
+
+ul{
+
+    background-color:black;
+
+  }
+
+h1{
+
+     color:red;
+     font-size: 20px;
+
+  }
+
+  .rojos{
+
+      color:green;
+
+  }
+
+  .grande{
+
+     background-color: yellow;
+
+  }
+
+  ul p{
+   
+     color:#995566;
+     font-size: 30px;
+
+  }
+
+

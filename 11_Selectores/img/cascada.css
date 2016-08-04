@@ -1,0 +1,39 @@
+img {
+
+	border-color: blue;
+	font-size:1px; 
+	border-style: solid;
+}
+
+/*p {
+
+   font-size:14px; 
+   font: yellow;
+
+}*/
+
+h2 {
+
+  font-color: black;
+  font-size:16px; 
+  
+}
+
+p {
+    
+    color:yellow;
+    font-size: 14px;
+    background-color:purple;
+    }
+
+li{
+
+    background-color:blue;
+
+  }
+
+ul{
+
+    background-color:red;
+
+  }
